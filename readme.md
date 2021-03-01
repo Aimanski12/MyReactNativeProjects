@@ -1,4 +1,4 @@
-## Web Dev Projects
+## Web Dev Amazing Projects
 
 Hello and welcome to the Github repo of my Web Development Projects. This houses all the related projects I created as well as the source codes of each project. Each project is branched from this master file. You can click on the branch tab to view all the listed projects or you can scroll from this page to view the rest of the projects. 
 
